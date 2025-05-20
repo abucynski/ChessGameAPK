@@ -14,11 +14,11 @@ This app offers a clean, minimalist chess experience with two core modes of play
 
 > ⚠️ This app is **not** available via Google Play or the App Store. Installation must be done manually.
 
-1. Download the ZIP file [**HERE**](https://archive.org/details/chess_20250520) - it will look like ![**THIS**](Internet-Archive-Screenshot)
-2. Extract the folder to access the `.apk` file.
-3. Transfer the APK to your Android device.
-4. Enable **Install from Unknown Sources** in your phone settings.
-5. Tap the APK and follow the on-screen prompts to install.
+1. Download the ZIP file [**HERE**](https://archive.org/details/chess_20250520) - it will look like ![**THIS**](Internet-Archive-Screenshot.png)
+3. Extract the folder to access the `.apk` file.
+4. Transfer the APK to your Android device.
+5. Enable **Install from Unknown Sources** in your phone settings.
+6. Tap the APK and follow the on-screen prompts to install.
 
 ### ▶️ Helpful Resources
 

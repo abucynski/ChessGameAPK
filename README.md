@@ -19,10 +19,10 @@ Enable Install from Unknown Sources in your phone settings.
 Tap the APK and follow the on-screen prompts to install.
 
 🎥 Video Tutorial:
-Watch Installation on Loom: https://www.loom.com/share/fe5adb96448e4d88a1940c7ac319840a?sid=de0fbccd-c46d-43e2-a150-172116d075e4
+[Watch Installation on Loom](https://www.loom.com/share/fe5adb96448e4d88a1940c7ac319840a?sid=de0fbccd-c46d-43e2-a150-172116d075e4)
 
 📄 Supporting Doc:
-Step-by-Step Walkthrough: https://docs.google.com/document/d/1R9Nj-y8PCNScofqOTD8bjYuTh6V56YyUj31nFLSFyeI/edit?tab=t.0#heading=h.uni1cty5t3cd
+[Step-by-Step Walkthrough](https://docs.google.com/document/d/1R9Nj-y8PCNScofqOTD8bjYuTh6V56YyUj31nFLSFyeI/edit?tab=t.0#heading=h.uni1cty5t3cd)
 
 3. Core Game Features
 Select your preferred language at startup.

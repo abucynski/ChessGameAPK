@@ -1,6 +1,6 @@
 # ChessGameAPK
-♟️ ChessGameAPK: Royal Tactics Chess Game
-ChessGameAPK is an Android chess game with a hidden purpose — discreet access to the Holy Bible. It appears as a standard chess app, but a simple in-game sequence unlocks a fully functional Bible reader. This tool is especially valuable in regions where Scripture access is monitored or restricted.
+♟️ Royal Tactics: Chess Game
+Royal Tactics is an Android chess game with a hidden purpose — discreet access to the Holy Bible. It appears as a standard chess app, but a simple in-game sequence unlocks a fully functional Bible reader. This tool is especially valuable in regions where Scripture access is monitored or restricted.
 
 1. What It Is
 This app offers a clean, minimalist chess experience with two core modes of play. Hidden within it is a digital Bible, accessible through a specific tap sequence. The design prioritizes safety, simplicity, and discretion.
